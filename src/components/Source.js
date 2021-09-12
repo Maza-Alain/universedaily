@@ -20,7 +20,7 @@ const Source = () => {
   return (
     <Container>
       <A
-        href="https://codebookcommx.wordpress.com"
+        href="https://github.com/Maza-Alain/universedaily"
         target="_blank"
         rel="noreferrer"
       >
