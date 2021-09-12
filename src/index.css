@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Titillium Web', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.descriptionShow{
+  transform: translateY(100%);
+}
+.srcSvg1{
+  fill: rgb(238, 231, 231);
+  width: 80%;
+  height: 80%;
+  opacity: .5;
+}
